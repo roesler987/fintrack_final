@@ -1,5 +1,9 @@
+import { Button } from "./_components/ui/button";
+
 const Home = () => {
-  return (<h1>rasdasd</h1>);
+  return (
+    <Button>quero pular da ponte</Button>
+  );
 }
  
 export default Home;
